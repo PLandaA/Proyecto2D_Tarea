@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mine
+  - Tower
+  - Miner
+  - Ninja
+  - Tank
+  - Healer
+  - Base
+  - Commander
+  - Booster
+  - FollowersTag
+  - Cold
+  - Monster
+  - Skeleton
+  - Archer
+  - Kamikaze
+  - Magician
+  - Magic
+  - Arrow
+  - GameManager
+  - EnemyMine
+  - Converter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Mine
+  - Tower
+  - Ally
+  - Unwalkable
+  - PlayerBase
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
